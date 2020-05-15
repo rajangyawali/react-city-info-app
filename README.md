@@ -1,6 +1,7 @@
 # City Info App made in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is online at https://city-info-rajan.netlify.app/
 
 ## Available Scripts
 
